@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey 👋, I'm Venkat 
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatkollimarla" alt="venkatkollimarla" /> </p>
 
 <!--
 **venkatkollimarla/venkatkollimarla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
